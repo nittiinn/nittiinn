@@ -8,7 +8,7 @@
 
 •❣️ I’m looking to collaborate on exciting and innovative projects that align with my skills and interests.
 
-•📫 How to reach me - niti6265645439@gmail.com
+•📫 How to reach me - patelnitinpatel2810@gmail.com
 
 <!---
 nittiinn/nittiinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
