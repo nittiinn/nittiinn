@@ -2,7 +2,7 @@
 
 •###👀 I'm interested in coding...
 
-•💻 I’m a Frontend Web Developer, aspiring to become a Software Engineer .
+•💻 I’m a Web Developer, aspiring to become a Software Engineer .
 
 •🌱 I’m currently, pursuing my B-tech from Barkatullah University Bhopal🧑‍🎓.
 
