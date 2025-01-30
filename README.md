@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/nitin_pate54975" target="blank">
-    <img src="https://img.shields.io/twitter/follow/nitin_pate54975?logo=twitter&style=for-the-badge" alt="nitin_pate54975" />
+  <a href="https://linkedin.com/in/nitin-patel-a08501225" target="blank">
+    <img src="https://img.shields.io/twitter/follow/nitin-patel-a08501225?logo=twitter&style=for-the-badge" alt="nitin-patel-a08501225" />
   </a>
 </p>
 
